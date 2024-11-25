@@ -1,0 +1,182 @@
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.csproj.AssemblyReference.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.csproj.CoreCompileInputs.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.BLL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.BLL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.BLL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.DAL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Buffers.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.DAL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.DAL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Buffers.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\Calories.991748B3.Up2Date
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.BLL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.BLL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.BLL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.DAL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Buffers.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.DAL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\CaloriesCounter.DAL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Buffers.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.csproj.AssemblyReference.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.csproj.CoreCompileInputs.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\Calories.991748B3.Up2Date
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.BLL\obj\Debug\CaloriesCounter.BLL.pdb

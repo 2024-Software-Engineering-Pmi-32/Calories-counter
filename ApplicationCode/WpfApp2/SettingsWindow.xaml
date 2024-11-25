@@ -1,0 +1,18 @@
+﻿<Window x:Class="CaloriesCounter.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Налаштування" Height="400" Width="600">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Налаштування" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10" />
+
+            <Button Content="Змінити пароль" Click="ChangePassword_Click" Width="200" Height="40" HorizontalAlignment="Center" Margin="0,10"/>
+            <Button Content="Відправити відгук" Click="SendFeedback_Click" Width="200" Height="40" HorizontalAlignment="Center" Margin="0,10"/>
+            <Button Content="Допомога" Click="Help_Click" Width="200" Height="40" HorizontalAlignment="Center" Margin="0,10"/>
+            <Button Content="Назад" Click="Back_Click" Width="200" Height="40" HorizontalAlignment="Center" Margin="0,10"/>
+            <Button Content="Вихід" Click="Exit_Click" Width="200" Height="40" HorizontalAlignment="Center" Margin="0,10"/>
+
+            <TextBox x:Name="FeedbackTextBox" Width="300" Height="100" TextWrapping="Wrap" AcceptsReturn="True" Margin="0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>

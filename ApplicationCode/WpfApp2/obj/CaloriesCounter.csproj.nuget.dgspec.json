@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\WpfApp2\\CaloriesCounter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\WpfApp2\\CaloriesCounter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\WpfApp2\\CaloriesCounter.csproj",
+        "projectName": "WpfApp2",
+        "projectPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\WpfApp2\\CaloriesCounter.csproj",
+        "packagesPath": "C:\\Users\\nastunja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\WpfApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nastunja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "D2L.CodeStyle.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.217.0, )"
+            },
+            "D2L.CodeStyle.Annotations": {
+              "target": "Package",
+              "version": "[0.33.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "StyleCop": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "StyleCop.Analyzers.Unstable": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0.556, )"
+            },
+            "StyleCop.CSharp.Rules": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

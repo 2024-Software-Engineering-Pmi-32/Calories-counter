@@ -1,0 +1,26 @@
+﻿<Window x:Class="CaloriesCounter.ReminderSettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Налаштування Нагадувань" Height="300" Width="400">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Налаштування Нагадувань" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10" />
+            <CheckBox x:Name="WaterReminderCheckBox" Content="Включити нагадування про воду" Margin="0,10" />
+            <StackPanel Orientation="Horizontal" Margin="20,0">
+                <TextBlock Text="Час:" VerticalAlignment="Center" />
+                <ComboBox x:Name="WaterReminderHourComboBox" Width="50" Margin="5,0" />
+                <TextBlock Text=":" VerticalAlignment="Center" />
+                <ComboBox x:Name="WaterReminderMinuteComboBox" Width="50" Margin="5,0" />
+            </StackPanel>
+            <CheckBox x:Name="MealReminderCheckBox" Content="Включити нагадування про їжу" Margin="0,10" />
+            <StackPanel Orientation="Horizontal" Margin="20,0">
+                <TextBlock Text="Час:" VerticalAlignment="Center" />
+                <ComboBox x:Name="MealReminderHourComboBox" Width="50" Margin="5,0" />
+                <TextBlock Text=":" VerticalAlignment="Center" />
+                <ComboBox x:Name="MealReminderMinuteComboBox" Width="50" Margin="5,0" />
+            </StackPanel>
+            <Button Content="Зберегти" Click="SaveButton_Click" Width="100" Height="40" HorizontalAlignment="Center" Margin="0,20" />
+            <Button Content="Назад" Click="BackButton_Click" Width="100" Height="40" HorizontalAlignment="Center" Margin="0,10" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,114 @@
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\CaloriesCounter.DAL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\CaloriesCounter.DAL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\CaloriesCounter.DAL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Buffers.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Buffers.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.csproj.AssemblyReference.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\Calories.84621F35.Up2Date
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2 (2)\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\CaloriesCounter.DAL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\CaloriesCounter.DAL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\CaloriesCounter.DAL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\EntityFramework.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Buffers.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Memory.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\EntityFramework.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Buffers.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Memory.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.csproj.AssemblyReference.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.exe.config
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\Calories.84621F35.Up2Date
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.exe
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfApp2\CaloriesCounter.DAL\obj\Debug\CaloriesCounter.DAL.pdb

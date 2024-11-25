@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\TestsBLL\\TestsBLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.BLL\\CaloriesCounter.BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.BLL\\CaloriesCounter.BLL.csproj",
+        "projectName": "CaloriesCounter.BLL",
+        "projectPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.BLL\\CaloriesCounter.BLL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.DAL\\CaloriesCounter.DAL.csproj": {
+                "projectPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.DAL\\CaloriesCounter.DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.DAL\\CaloriesCounter.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.DAL\\CaloriesCounter.DAL.csproj",
+        "projectName": "CaloriesCounter.DAL",
+        "projectPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.DAL\\CaloriesCounter.DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\TestsBLL\\TestsBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\TestsBLL\\TestsBLL.csproj",
+        "projectName": "TestsBLL",
+        "projectPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\TestsBLL\\TestsBLL.csproj",
+        "packagesPath": "C:\\Users\\nastunja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\TestsBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nastunja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.BLL\\CaloriesCounter.BLL.csproj": {
+                "projectPath": "C:\\Users\\nastunja\\Desktop\\3 курс\\Програмна інженерія\\ApplicationCode\\WpfApp2\\CaloriesCounter.BLL\\CaloriesCounter.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

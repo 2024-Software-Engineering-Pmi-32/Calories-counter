@@ -1,0 +1,20 @@
+﻿<StyleCopSettings Version="1.0">
+  <Analyzers>
+    <Analyzer Type="StyleCop.Analyzers.SpacingRules" Enabled="True" />
+    <Analyzer Type="StyleCop.Analyzers.DocumentationRules" Enabled="True" />
+    <Analyzer Type="StyleCop.Analyzers.NamingRules" Enabled="True" />
+    <Analyzer Type="StyleCop.Analyzers.LayoutRules" Enabled="True" />
+    <Analyzer Type="StyleCop.Analyzers.OrderingRules" Enabled="True" />
+    <Analyzer Type="StyleCop.Analyzers.MaintainabilityRules" Enabled="True" />
+    
+  </Analyzers>
+  <Rules>
+    <Rule Name="SA1000" Enabled="True" />
+    <Rule Name="SA1001" Enabled="True" />
+    <Rule Name="SA1027" Enabled="True" />
+    <Rule Name="SA1500" Enabled="True" />
+  </Rules>
+  <Exclusions>
+    <File>NameOfExcludedFile.cs</File>
+  </Exclusions>
+</StyleCopSettings>
