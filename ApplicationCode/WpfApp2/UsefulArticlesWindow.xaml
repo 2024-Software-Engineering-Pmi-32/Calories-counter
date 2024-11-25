@@ -1,0 +1,11 @@
+﻿<Window x:Class="CaloriesCounter.UsefulArticlesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Корисні статті" Height="400" Width="600">
+    <Grid>
+        <TextBlock Text="Корисні статті" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,10"/>
+        <ListBox x:Name="ArticlesListBox" Margin="33,72,37,10" MouseDoubleClick="ArticlesListBox_MouseDoubleClick">
+           
+        </ListBox>
+    </Grid>
+</Window>

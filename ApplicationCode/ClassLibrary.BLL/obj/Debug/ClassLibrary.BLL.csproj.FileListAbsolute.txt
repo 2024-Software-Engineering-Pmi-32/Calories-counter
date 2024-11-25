@@ -1,0 +1,6 @@
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\ClassLibrary.BLL\bin\Debug\ClassLibrary.BLL.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\ClassLibrary.BLL\bin\Debug\ClassLibrary.BLL.pdb
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\ClassLibrary.BLL\obj\Debug\ClassLibrary.BLL.csproj.AssemblyReference.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\ClassLibrary.BLL\obj\Debug\ClassLibrary.BLL.csproj.CoreCompileInputs.cache
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\ClassLibrary.BLL\obj\Debug\ClassLibrary.BLL.dll
+C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\ClassLibrary.BLL\obj\Debug\ClassLibrary.BLL.pdb
