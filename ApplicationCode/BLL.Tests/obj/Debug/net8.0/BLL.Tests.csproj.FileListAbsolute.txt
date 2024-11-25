@@ -1,6 +1,0 @@
-C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\BLL.Tests\obj\Debug\net8.0\BLL.Tests.csproj.AssemblyReference.cache
-C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\BLL.Tests\obj\Debug\net8.0\BLL.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\BLL.Tests\obj\Debug\net8.0\BLL.Tests.AssemblyInfoInputs.cache
-C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\BLL.Tests\obj\Debug\net8.0\BLL.Tests.AssemblyInfo.cs
-C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\BLL.Tests\obj\Debug\net8.0\BLL.Tests.csproj.CoreCompileInputs.cache
-C:\Users\nastunja\Desktop\3 курс\Програмна інженерія\ApplicationCode\WpfAppCaloriesCounter\BLL.Tests\obj\Debug\net8.0\BLL.Tests.sourcelink.json
